@@ -3,7 +3,9 @@ This is a voice-based AI assistant built in Python.
 It listens to the driver’s voice in Hindi, sends the query to Google’s Gemini 1.5 Flash model, and responds back in Hindi speech using gTTS (Text-to-Speech).
 
 Example interactions:
+
     * Driver: मुझे ओला के बारे में बताइए
+    
     * Driver: ओला में कैब कैसे बुक करें?
 
 ## 📌 Features
