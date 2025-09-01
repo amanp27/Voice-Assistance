@@ -1,0 +1,9 @@
+python-dotenv
+google-generativeai
+livekit-agents
+livekit-plugins-silero
+sounddevice
+soundfile
+numpy
+gTTS
+playsound
