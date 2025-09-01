@@ -65,8 +65,8 @@ pip install -r requirements.txt
 
 ## 📌 Notes
 
-Replies are temporarily saved as audio files before playback. These files are auto-deleted after speaking.
+* Replies are temporarily saved as audio files before playback. These files are auto-deleted after speaking.
 
-You can improve further by making playback real-time without saving files.
+* You can improve further by making playback real-time without saving files.
 
-This is a first version, built to demonstrate understanding of speech recognition + AI responses + speech synthesis.
+* This is a first version, built to demonstrate understanding of speech recognition + AI responses + speech synthesis.
